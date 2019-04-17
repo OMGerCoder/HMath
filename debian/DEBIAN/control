@@ -1,0 +1,6 @@
+Package: libhmath
+Version: 1.0
+Maintainer: Hugh <hughomg@icloud.com>
+Architecture: all
+Description: A C library for doing basic math.
+ libhmath is a basic C library created by Hugh.
